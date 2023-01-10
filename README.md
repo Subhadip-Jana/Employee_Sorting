@@ -1,7 +1,7 @@
 # Employee_Sorting
 Java Program to Sort employee details based on their Id, Name or salary;
 
-"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.1\lib\idea_rt.jar=53452:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "D:\3rd Year\Training\Employee\Employee_sort\out\production\Employee_sort" Main
+
 || Employee Management ||
 Enter number of employees: 
 3
